@@ -1,2 +1,6 @@
 ana are mere
+<<<<<<< Updated upstream
 aceasta linie e scrisa REMOTE
+=======
+am adaugat linia 2 LOCAL
+>>>>>>> Stashed changes
