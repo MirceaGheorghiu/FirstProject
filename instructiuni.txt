@@ -4,3 +4,4 @@ aceasta linie e scrisa REMOTE
 =======
 am adaugat linia 2 LOCAL
 >>>>>>> Stashed changes
+am creat o linie noua pe branch-ul local
